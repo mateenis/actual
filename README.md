@@ -8,7 +8,7 @@ Actual is a local-first personal finance tool. It is 100% free and open-source, 
 
 If you are interested in contributing, or want to know how development works, see our [contributing](https://actualbudget.org/docs/contributing/) document we would love to have you.
 
-Want to say thanks? Click the ⭐ at the top of the page.
+Thank you
 
 ## Key Links
 
